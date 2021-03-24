@@ -7,7 +7,7 @@ import pytube
 
 root = Tk()
 
-root.title('Youtube Downloader: Reboot13')
+root.title('Youtube Downloader: Kiran Bhat🇮🇳')
 root.geometry('500x330') 
 root.configure(bg='#222')
 
@@ -65,7 +65,7 @@ downloadbutton = Button(root,
 
 downloadbutton.pack()
 
-codeby = Label(root,text ="© Reboot13",
+codeby = Label(root,text ="© Kiran bhat🇮🇳",
 					foreground= "#fff",
 					padding=10,
 					font=("monospace",10),
