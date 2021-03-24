@@ -23,6 +23,6 @@ Directly Download `youtubeDownloader.exe` and use it
 ### Note:
 **Wait If Program Is Not Responding = (Downloading Video)**
 
-### Reboot13
+### Kiran bhat
 
-[Telegram](https://telegram.me/reboot13_dev) || [Instagram](https://instagram.com/reboot13_dev) || [Twitter](https://twitter.com/reboot13_dev) || [Youtube](https://youtube.com/krutikraut) || [LinkedIN](https://linkedin.com/in/reboot13)
+[Instagram](https://instagram.com/k.s.bhat) 
